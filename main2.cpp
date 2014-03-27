@@ -1,8 +1,7 @@
 #include <iostream>
-
 using namespace std;
 
 int main() {
-		cout<< "gitttt!!!";
-		return 0;
+	cout << "Hi Noeeeee";
+	return 0;
 }
